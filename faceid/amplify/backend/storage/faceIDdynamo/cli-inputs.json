@@ -1,0 +1,10 @@
+{
+  "resourceName": "faceIDdynamo",
+  "tableName": "faceIDdynamotable",
+  "partitionKey": {
+    "fieldName": "imageId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

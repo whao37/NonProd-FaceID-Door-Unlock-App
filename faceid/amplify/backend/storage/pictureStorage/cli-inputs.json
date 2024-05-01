@@ -1,0 +1,12 @@
+{
+  "resourceName": "pictureStorage",
+  "policyUUID": "bbfc188b",
+  "bucketName": "faceidpicturestorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
